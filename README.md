@@ -1,0 +1,2 @@
+# MachineLearning_Project
+CNN architecture for human activity recognition that has been developed by manipulating various parameters of the neural network. The training and testing were performed on the public dataset MHEALTH for classifying human activities in 12 classes corresponding to various activities. With the architecture consisting of 2 convolutional, 2 max-pooling and 2 linear layers we achieved an accuracy of 96% and F1 score of 90.52% outperforming several state-of-the-art models trained on the same dataset.
